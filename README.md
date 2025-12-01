@@ -1,4 +1,4 @@
-# 🏥 **Blockchain-Based Patient Data Management System**
+# 🏥 **Patient Data Management Using Block Chain**
 
 A simple blockchain implementation in Python designed to **securely store patient medical records** using cryptographic hashing and Proof-of-Work. This project demonstrates how blockchain can be applied to healthcare for tamper-proof and verifiable data storage.
 
@@ -119,7 +119,7 @@ cd your-repo-name
 Make sure Python 3 is installed.
 
 ```
-python blockchain.py
+python patient.py
 ```
 
 ### **3️⃣ View Output**
