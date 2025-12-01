@@ -1,0 +1,53 @@
+Adding patient data...
+
+New Block Mined: {
+    "index": 2,
+    "timestamp": 1764572070.3990564,
+    "data": [
+        {
+            "patient_id": "P001",
+            "name": "Surya",
+            "age": 30,
+            "diagnosis": "Fever"
+        },
+        {
+            "patient_id": "P002",
+            "name": "Suresh",
+            "age": 40,
+            "diagnosis": "Common cold"
+        }
+    ],
+    "proof": 35293,
+    "previous_hash": "498f456efc09c2ad2842f186d92d114cfdd3be0a75670071e98d4f7f43c337c5"
+}
+
+Is Blockchain valid? True
+
+Full Blockchain:
+{
+    "index": 1,
+    "timestamp": 1764572070.3046906,
+    "data": [],
+    "proof": 100,
+    "previous_hash": "1"
+}
+{
+    "index": 2,
+    "timestamp": 1764572070.3990564,
+    "data": [
+        {
+            "patient_id": "P001",
+            "name": "Surya",
+            "age": 30,
+            "diagnosis": "Fever"
+        },
+        {
+            "patient_id": "P002",
+            "name": "Suresh",
+            "age": 40,
+            "diagnosis": "Common cold"
+        }
+    ],
+    "proof": 35293,
+    "previous_hash": "498f456efc09c2ad2842f186d92d114cfdd3be0a75670071e98d4f7f43c337c5"
+}
